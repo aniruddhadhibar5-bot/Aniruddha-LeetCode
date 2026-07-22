@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Breadth-First Search
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
