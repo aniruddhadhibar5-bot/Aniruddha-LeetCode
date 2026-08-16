@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0087-scramble-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0079-word-search) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0079-word-search) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
