@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
