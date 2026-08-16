@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0087-scramble-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0049-group-anagrams) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0049-group-anagrams) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
 ## Minimax
