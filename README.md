@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0087-scramble-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0087-scramble-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0087-scramble-string) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -166,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
