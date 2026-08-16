@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0056-merge-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0051-n-queens) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
