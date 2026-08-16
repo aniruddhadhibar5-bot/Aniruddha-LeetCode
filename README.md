@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0087-scramble-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
