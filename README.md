@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -449,8 +452,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
