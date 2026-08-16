@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0087-scramble-string) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
