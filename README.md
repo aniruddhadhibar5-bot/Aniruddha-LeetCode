@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0062-unique-paths) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0087-scramble-string) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
