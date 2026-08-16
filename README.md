@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0042-trapping-rain-water) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
