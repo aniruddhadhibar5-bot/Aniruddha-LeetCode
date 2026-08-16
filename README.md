@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0078-subsets) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
