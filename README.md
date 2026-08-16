@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
