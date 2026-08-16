@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0100-same-tree) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0100-same-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0100-same-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
