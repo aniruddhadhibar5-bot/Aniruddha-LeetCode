@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0088-merge-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0088-merge-sorted-array) |
 ## Manacher
 |  |
 | ------- |
