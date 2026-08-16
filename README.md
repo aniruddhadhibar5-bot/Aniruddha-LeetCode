@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0087-scramble-string) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
