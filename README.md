@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0029-divide-two-integers) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
