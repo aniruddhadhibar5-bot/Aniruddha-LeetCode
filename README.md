@@ -173,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
