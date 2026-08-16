@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0012-integer-to-roman) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0087-scramble-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0029-divide-two-integers) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0012-integer-to-roman) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
 ## Minimax
