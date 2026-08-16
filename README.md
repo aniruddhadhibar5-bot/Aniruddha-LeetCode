@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0075-sort-colors) |
 ## Manacher
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -383,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
