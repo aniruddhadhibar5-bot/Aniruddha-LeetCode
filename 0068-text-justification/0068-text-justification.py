@@ -12,13 +12,13 @@ class Solution:
                 line_len += 1 + len(words[j])
                 j += 1
 
-            # Step 2: Build line
             line_words = words[i:j]
             spaces_needed = maxWidth - sum(len(w) for w in line_words)
             gaps = len(line_words) - 1
 
-            # Last line OR single word → left-justified
+            # Step 2: Build line
             if j == n or gaps == 0:
+                # Last line OR single word → left-justified
                 line = " ".join(line_words)
                 line += " " * (maxWidth - len(line))
             else:
