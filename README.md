@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1799-maximize-score-after-n-operations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1799-maximize-score-after-n-operations) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0060-permutation-sequence) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1808-maximize-number-of-nice-divisors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1799-maximize-score-after-n-operations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1799-maximize-score-after-n-operations) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1808-maximize-number-of-nice-divisors) |
 ## Prime Factorization
 |  |
 | ------- |
