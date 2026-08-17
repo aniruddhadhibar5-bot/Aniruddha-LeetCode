@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
