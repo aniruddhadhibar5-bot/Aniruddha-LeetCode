@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0136-single-number) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
