@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0137-single-number-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1799-maximize-score-after-n-operations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1799-maximize-score-after-n-operations) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0460-lfu-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0460-lfu-cache) |
+| [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0140-word-break-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 | [1799-maximize-score-after-n-operations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 ## Stack
