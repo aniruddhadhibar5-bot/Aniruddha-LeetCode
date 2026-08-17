@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
+| [1492-the-kth-factor-of-n](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -671,10 +672,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
+| [1492-the-kth-factor-of-n](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1492-the-kth-factor-of-n) |
 ## Prime Factorization
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1492-the-kth-factor-of-n](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1492-the-kth-factor-of-n) |
 ## Least Common Multiple
 |  |
 | ------- |
