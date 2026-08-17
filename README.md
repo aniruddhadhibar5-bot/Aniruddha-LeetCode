@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0460-lfu-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Algorithm X
 |  |
 | ------- |
