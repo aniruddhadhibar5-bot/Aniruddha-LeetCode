@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1808-maximize-number-of-nice-divisors) |
 ## Divide and Conquer
 |  |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Manacher
 |  |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
