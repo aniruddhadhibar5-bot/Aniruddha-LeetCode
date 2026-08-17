@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0115-distinct-subsequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
