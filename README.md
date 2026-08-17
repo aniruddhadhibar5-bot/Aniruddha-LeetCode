@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1622-fancy-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1622-fancy-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Graph Theory
 |  |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0155-min-stack) |
+| [1622-fancy-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1622-fancy-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1622-fancy-sequence) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -686,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
