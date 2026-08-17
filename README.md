@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0125-valid-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0125-valid-palindrome) |
 ## Manacher
 |  |
 | ------- |
