@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0133-clone-graph) |
+| [0226-invert-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0133-clone-graph) |
+| [0226-invert-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 ## Binary Search Tree
 |  |
