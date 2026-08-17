@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0139-word-break) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0139-word-break) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0139-word-break) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
 ## Minimax
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -536,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0139-word-break) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -582,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0127-word-ladder) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
