@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0140-word-break-ii) |
+| [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 ## Stack
 |  |
 | ------- |
