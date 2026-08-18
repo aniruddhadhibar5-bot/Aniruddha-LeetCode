@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
 | [3227-vowels-game-in-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Array
 |  |
 | ------- |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0621-task-scheduler) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Nim Game
 |  |
 | ------- |
