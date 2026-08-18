@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0133-clone-graph) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -913,4 +914,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Enumeration
+|  |
+| ------- |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 <!---LeetCode Topics End-->
