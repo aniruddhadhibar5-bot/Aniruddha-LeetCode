@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0400-nth-digit) |
 | [0519-random-flip-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0400-nth-digit](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0400-nth-digit) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
