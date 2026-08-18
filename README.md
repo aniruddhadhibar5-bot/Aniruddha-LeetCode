@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0337-house-robber-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0338-counting-bits) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
