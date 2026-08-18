@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0130-surrounded-regions) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1627-graph-connectivity-with-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0621-task-scheduler](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0621-task-scheduler) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0133-clone-graph) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 ## Biconnected Component
 |  |
@@ -918,4 +921,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
