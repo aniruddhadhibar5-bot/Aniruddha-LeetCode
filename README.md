@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0389-find-the-difference) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0389-find-the-difference](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0389-find-the-difference) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0621-task-scheduler](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0621-task-scheduler) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
