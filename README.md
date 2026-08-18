@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0393-utf-8-validation) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0384-shuffle-an-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0393-utf-8-validation) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
