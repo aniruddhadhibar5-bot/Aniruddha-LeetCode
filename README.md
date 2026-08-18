@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0394-decode-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0394-decode-string) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1808-maximize-number-of-nice-divisors) |
 ## Divide and Conquer
 |  |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0385-mini-parser](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
