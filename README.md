@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0233-number-of-digit-one) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0229-majority-element-ii) |
 | [0432-all-oone-data-structure](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0460-lfu-cache) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
