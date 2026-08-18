@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1627-graph-connectivity-with-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
