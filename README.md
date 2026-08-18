@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0342-power-of-four) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Two Pointers
