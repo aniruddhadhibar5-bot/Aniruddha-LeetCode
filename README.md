@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0621-task-scheduler) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
