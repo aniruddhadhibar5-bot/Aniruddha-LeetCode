@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1627-graph-connectivity-with-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1799-maximize-score-after-n-operations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1799-maximize-score-after-n-operations) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0174-dungeon-game) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Prim's Algorithm
 |  |
 | ------- |
@@ -941,4 +946,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Articulation Point
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
