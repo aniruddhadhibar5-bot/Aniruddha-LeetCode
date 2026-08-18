@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
+| [2306-naming-a-company](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2306-naming-a-company) |
 | [3227-vowels-game-in-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1799-maximize-score-after-n-operations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1799-maximize-score-after-n-operations) |
+| [2306-naming-a-company](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2306-naming-a-company) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
+| [2306-naming-a-company](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2306-naming-a-company) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0621-task-scheduler) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [2306-naming-a-company](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2306-naming-a-company) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -1008,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0204-count-primes) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [2306-naming-a-company](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2306-naming-a-company) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
