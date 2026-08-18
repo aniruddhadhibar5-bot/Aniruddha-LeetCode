@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Manacher
