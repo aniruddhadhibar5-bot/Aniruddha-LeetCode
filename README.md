@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0337-house-robber-iii) |
 | [0385-mini-parser](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0508-most-frequent-subtree-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0385-mini-parser](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
 ## Bracket Sequences
