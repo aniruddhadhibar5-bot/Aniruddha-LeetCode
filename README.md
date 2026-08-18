@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Greedy
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0229-majority-element-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -345,11 +347,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1622-fancy-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1622-fancy-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Graph Theory
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -641,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -867,4 +873,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0164-maximum-gap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
