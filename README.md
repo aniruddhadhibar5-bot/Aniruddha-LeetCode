@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0233-number-of-digit-one) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0229-majority-element-ii) |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0204-count-primes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
@@ -953,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0204-count-primes) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 ## Minimum Spanning Tree
 |  |
@@ -979,4 +983,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
