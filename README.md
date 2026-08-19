@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0851-loud-and-rich](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0851-loud-and-rich) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0399-evaluate-division) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -1320,4 +1323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
