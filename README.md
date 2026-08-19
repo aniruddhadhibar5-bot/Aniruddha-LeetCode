@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0888-fair-candy-swap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0872-leaf-similar-trees) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0888-fair-candy-swap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1045,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0872-leaf-similar-trees) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
