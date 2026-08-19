@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Greedy
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0525-contiguous-array) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0400-nth-digit](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0400-nth-digit) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
@@ -1024,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0519-random-flip-matrix) |
 ## Randomized
 |  |
@@ -1031,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0519-random-flip-matrix) |
 ## Pigeonhole Principle
 |  |
