@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0870-advantage-shuffle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0879-profitable-schemes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0879-profitable-schemes) |
+| [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0870-advantage-shuffle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
 ## Manacher
 |  |
 | ------- |
@@ -1312,4 +1316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0879-profitable-schemes) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
