@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0848-shifting-letters) |
 | [0850-rectangle-area-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0851-loud-and-rich) |
+| [0853-car-fleet](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0853-car-fleet) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0621-task-scheduler](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0853-car-fleet) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0853-car-fleet](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0853-car-fleet) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Bracket Sequences
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0853-car-fleet](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0853-car-fleet) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Algorithm X
 |  |
