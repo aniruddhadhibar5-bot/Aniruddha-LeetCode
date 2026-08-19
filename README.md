@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0866-prime-palindrome) |
+| [0878-nth-magical-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0878-nth-magical-number) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0400-nth-digit) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0878-nth-magical-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1118,10 +1120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0858-mirror-reflection) |
+| [0878-nth-magical-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
+| [0878-nth-magical-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 ## Fermat's Little Theorem
 |  |
