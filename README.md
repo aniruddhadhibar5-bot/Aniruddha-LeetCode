@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0403-frog-jump) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0403-frog-jump) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
