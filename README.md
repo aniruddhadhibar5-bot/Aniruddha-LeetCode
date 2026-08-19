@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0885-spiral-matrix-iii) |
+| [0888-fair-candy-swap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0888-fair-candy-swap) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0870-advantage-shuffle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0888-fair-candy-swap) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0878-nth-magical-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0878-nth-magical-number) |
+| [0888-fair-candy-swap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0888-fair-candy-swap) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0888-fair-candy-swap) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1386-cinema-seat-allocation) |
