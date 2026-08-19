@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0392-is-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Manacher
 |  |
 | ------- |
