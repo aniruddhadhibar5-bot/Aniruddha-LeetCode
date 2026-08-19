@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0784-letter-case-permutation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0784-letter-case-permutation) |
+| [0838-push-dominoes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0838-push-dominoes) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0403-frog-jump) |
+| [0838-push-dominoes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0838-push-dominoes) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0392-is-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0838-push-dominoes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0838-push-dominoes) |
 ## Manacher
 |  |
 | ------- |
