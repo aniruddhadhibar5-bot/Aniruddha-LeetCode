@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0784-letter-case-permutation) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0861-score-after-flipping-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0840-magic-squares-in-grid](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0861-score-after-flipping-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
