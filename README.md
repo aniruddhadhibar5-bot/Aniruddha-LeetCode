@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0839-similar-string-groups) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0848-shifting-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0856-score-of-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0856-score-of-parentheses) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Bracket Sequences
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0856-score-of-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
