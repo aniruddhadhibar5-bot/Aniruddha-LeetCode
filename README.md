@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0866-prime-palindrome) |
 | [0878-nth-magical-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0878-nth-magical-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0879-profitable-schemes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
+| [0883-projection-area-of-3d-shapes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0391-perfect-rectangle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0391-perfect-rectangle) |
 | [0858-mirror-reflection](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Euclidean Algorithm
 |  |
 | ------- |
