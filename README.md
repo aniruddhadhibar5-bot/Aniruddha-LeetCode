@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0407-trapping-rain-water-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
