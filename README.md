@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0068-text-justification) |
 | [0867-transpose-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0885-spiral-matrix-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0885-spiral-matrix-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0885-spiral-matrix-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
