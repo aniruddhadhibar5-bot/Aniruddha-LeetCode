@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0848-shifting-letters) |
 | [0850-rectangle-area-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0850-rectangle-area-ii) |
+| [0851-loud-and-rich](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0851-loud-and-rich) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0851-loud-and-rich) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0851-loud-and-rich](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0851-loud-and-rich) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
@@ -1180,10 +1183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0207-course-schedule) |
+| [0851-loud-and-rich](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0851-loud-and-rich) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0207-course-schedule) |
+| [0851-loud-and-rich](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0851-loud-and-rich) |
 ## Brainteaser
 |  |
 | ------- |
