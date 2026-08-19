@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0838-push-dominoes) |
 | [0839-similar-string-groups](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0839-similar-string-groups) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0848-shifting-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0848-shifting-letters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0846-hand-of-straights) |
+| [0848-shifting-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0848-shifting-letters) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0525-contiguous-array) |
+| [0848-shifting-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 ## Dynamic Programming
