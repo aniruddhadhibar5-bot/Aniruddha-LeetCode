@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-split-array-into-fibonacci-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0848-shifting-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0859-buddy-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0846-hand-of-straights) |
+| [0859-buddy-strings](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0859-buddy-strings) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1386-cinema-seat-allocation) |
