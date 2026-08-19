@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0872-leaf-similar-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
