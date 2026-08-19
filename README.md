@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0784-letter-case-permutation) |
 | [0838-push-dominoes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0838-push-dominoes) |
 | [0839-similar-string-groups](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0839-similar-string-groups) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0140-word-break-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0784-letter-case-permutation) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 | [1799-maximize-score-after-n-operations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 ## Stack
