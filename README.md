@@ -953,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0901-online-stock-span) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Bracket Sequences
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0901-online-stock-span) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Algorithm X
 |  |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0460-lfu-cache) |
 | [0855-exam-room](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0855-exam-room) |
 | [0900-rle-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0900-rle-iterator) |
+| [0901-online-stock-span](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1622-fancy-sequence) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
 ## Doubly-Linked List
@@ -1385,4 +1388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-rle-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0900-rle-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
