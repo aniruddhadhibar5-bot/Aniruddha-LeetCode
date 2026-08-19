@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0899-orderly-queue) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0899-orderly-queue) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0896-monotonic-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0896-monotonic-array) |
 | [0900-rle-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0900-rle-iterator) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0878-nth-magical-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0878-nth-magical-number) |
 | [0888-fair-candy-swap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0888-fair-candy-swap) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0879-profitable-schemes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0879-profitable-schemes) |
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0894-all-possible-full-binary-trees) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
