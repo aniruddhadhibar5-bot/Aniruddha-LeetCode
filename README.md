@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0894-all-possible-full-binary-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0879-profitable-schemes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0879-profitable-schemes) |
+| [0894-all-possible-full-binary-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0894-all-possible-full-binary-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1808-maximize-number-of-nice-divisors) |
 ## Divide and Conquer
 |  |
@@ -1024,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0397-integer-replacement) |
+| [0894-all-possible-full-binary-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -1063,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0894-all-possible-full-binary-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
