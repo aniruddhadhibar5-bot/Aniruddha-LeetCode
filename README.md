@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0896-monotonic-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0896-monotonic-array) |
+| [0900-rle-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0900-rle-iterator) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0621-task-scheduler) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0900-rle-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0900-rle-iterator) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1117,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0460-lfu-cache) |
 | [0855-exam-room](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0855-exam-room) |
+| [0900-rle-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0900-rle-iterator) |
 | [1622-fancy-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1622-fancy-sequence) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
 ## Doubly-Linked List
@@ -1378,4 +1381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0899-orderly-queue) |
+## Iterator
+|  |
+| ------- |
+| [0900-rle-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0900-rle-iterator) |
 <!---LeetCode Topics End-->
