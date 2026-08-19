@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0896-monotonic-array) |
 | [0900-rle-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0900-rle-iterator) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0904-fruit-into-baskets](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0904-fruit-into-baskets](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0904-fruit-into-baskets](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1386-cinema-seat-allocation) |
