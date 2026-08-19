@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0890-find-and-replace-pattern](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0890-find-and-replace-pattern](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0890-find-and-replace-pattern](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1386-cinema-seat-allocation) |
