@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1470-shuffle-the-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1627-graph-connectivity-with-threshold](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
