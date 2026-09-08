@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2029-stone-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1051,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0062-unique-paths) |
 | [1201-ugly-number-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1201-ugly-number-iii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Newton's Method
 |  |
 | ------- |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1622-fancy-sequence) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1735-count-ways-to-make-array-with-product) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bitmask
 |  |
 | ------- |
