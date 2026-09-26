@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0414-third-maximum-number) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0389-find-the-difference](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0414-third-maximum-number) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0621-task-scheduler](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0846-hand-of-straights) |
