@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0337-house-robber-iii) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -1106,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0337-house-robber-iii) |
@@ -1124,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## DP on Trees
@@ -1152,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0384-shuffle-an-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0384-shuffle-an-array) |
@@ -1425,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0900-rle-iterator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0900-rle-iterator) |
 ## Data Stream
 |  |
