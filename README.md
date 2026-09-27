@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0780-reaching-points](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0780-reaching-points) |
 | [0781-rabbits-in-forest](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0781-rabbits-in-forest) |
+| [0788-rotated-digits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0866-prime-palindrome) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0403-frog-jump) |
+| [0788-rotated-digits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0788-rotated-digits) |
 | [0838-push-dominoes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
