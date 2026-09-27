@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3660-jump-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3660-jump-game-ix) |
 | [3731-find-missing-elements](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3660-jump-game-ix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/3660-jump-game-ix) |
 ## Matrix
 |  |
 | ------- |
