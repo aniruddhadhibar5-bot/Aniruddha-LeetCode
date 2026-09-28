@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0344-reverse-string) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0212-word-search-ii) |
 | [0228-summary-ranges](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0229-majority-element-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0840-magic-squares-in-grid](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0861-score-after-flipping-matrix](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0861-score-after-flipping-matrix) |
@@ -952,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Backtracking
 |  |
@@ -974,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0212-word-search-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0784-letter-case-permutation) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
