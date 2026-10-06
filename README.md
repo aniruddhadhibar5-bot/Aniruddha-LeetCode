@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1447-simplified-fractions](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1447-simplified-fractions) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0910-smallest-range-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2296-design-a-text-editor](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/2296-design-a-text-editor) |
@@ -1024,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
