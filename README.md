@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0850-rectangle-area-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0850-rectangle-area-ii) |
 | [0855-exam-room](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0855-exam-room) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0229-majority-element-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0384-shuffle-an-array](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0393-utf-8-validation) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0400-nth-digit](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0400-nth-digit) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0850-rectangle-area-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0850-rectangle-area-ii) |
 | [1622-fancy-sequence](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/1622-fancy-sequence) |
@@ -905,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
@@ -1050,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0327-count-of-range-sum) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -1344,11 +1350,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/aniruddhadhibar5-bot/Aniruddha-LeetCode/tree/master/0327-count-of-range-sum) |
 ## Quickselect
 |  |
 | ------- |
